@@ -7,7 +7,7 @@
             "email": "your@name.com"
         }
     ],
-    "version":"dev-master",
+    "version":"1.0",
     "minimum-stability": "dev-master",
     "require": {
         "php": ">=5.3.0"
