@@ -7,10 +7,9 @@
             "email": "your@name.com"
         }
     ],
-    "version":"1.0",
+    "version":"master",
     "minimum-stability": "master",
     "require": {
         "php": ">=5.3.0"
-     "pbalan/directory-parser": "dev-master"
     }
 }
