@@ -11,5 +11,6 @@
     "minimum-stability": "master",
     "require": {
         "php": ">=5.3.0"
+     "pbalan/directory-parser": "dev-master"
     }
 }
